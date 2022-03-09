@@ -7,7 +7,7 @@ import Courses from "./pages/Courses";
 // import Allocation from "./pages/Allocation";
 // import AllocationManage from "./pages/Allocation/AllocationManage";
 // import Departament from "./pages/Departament";
-// import Professor from "./pages/Professor";
+ import Professor from "./pages/Professor";
 
 const routes = [
   {
